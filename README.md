@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tawanda Steven Rampai 
 
-<!--
-**tawandarampai10-bot/tawandarampai10-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Mathematical Science Student
 
-Here are some ideas to get you started:
+I'm a university student at the University of Limpopo in South Africa, passionate about software development, problem-solving and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My programming journey started with C++ in 2024. Since then, I've been exploring different programming languages, building projects and developing my skills.
+
+- 🌍 Based in South Africa
+- 💻 Interested in Software Development
+- 🌱 Constantly learning and improving
+- 🚀 Building projects and growing as a developer
+- 🎯 Working towards becoming a professional Software Developer
