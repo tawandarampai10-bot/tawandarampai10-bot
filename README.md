@@ -79,3 +79,15 @@ Matriculated in 2024
 - Learning data structures and algorithms.
 - Developing practical web development skills.
 - Improving my Git and GitHub workflow.
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** [tawandarampai10@gmail.com](mailto:tawandarampai10@gmail.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/tawanda-rampai-848093382/)
+- **Portfolio:** [Visit my Website](https://tawandarampai10-bot.github.io/tawanda-portfolio/)
+
+---
+
+*“Every expert was once a beginner. Keep building. Keep learning.”*
