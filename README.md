@@ -31,3 +31,30 @@ My programming journey started with C++ in 2024. Since then, I've been exploring
 - GitHub
 - Visual Studio Code
 - IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Student Campus Management System
+**Java | Object-Oriented Programming**
+
+A team-developed, console-based application designed to support campus operations.
+
+My contributions included:
+- Hostel allocation and room availability management.
+- Library book registration and management.
+- Book searching, issuing and returning.
+- Tracking borrowed and overdue books.
+
+### 2. Personalised Greeting Website
+**HTML | CSS | JavaScript**
+
+A simple interactive website that allows users to enter their names and receive personalised greetings.
+
+### 3. Personal Portfolio Website
+**HTML | CSS | JavaScript**
+
+My personal website showcasing my background, projects, skills and contact information.
+
+🔗 [Visit my portfolio](https://tawandarampai10-bot.github.io/tawanda-portfolio/)
