@@ -11,3 +11,23 @@ My programming journey started with C++ in 2024. Since then, I've been exploring
 - 🌱 Constantly learning and improving
 - 🚀 Building projects and growing as a developer
 - 🎯 Working towards becoming a professional Software Developer
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
+- C++
+- Java
+- Python (Beginner)
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
+- IntelliJ IDEA
