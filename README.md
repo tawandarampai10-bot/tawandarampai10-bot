@@ -58,3 +58,24 @@ A simple interactive website that allows users to enter their names and receive 
 My personal website showcasing my background, projects, skills and contact information.
 
 🔗 [Visit my portfolio](https://tawandarampai10-bot.github.io/tawanda-portfolio/)
+
+---
+
+## 🎓 Education
+
+**University of Limpopo**  
+BSc Mathematical Science  
+2026 – Present
+
+**Taung Secondary School**  
+Matriculated in 2024
+
+---
+
+## 📚 Currently Learning
+
+- Strengthening my C++ programming fundamentals.
+- Improving my Java and Object-Oriented Programming skills.
+- Learning data structures and algorithms.
+- Developing practical web development skills.
+- Improving my Git and GitHub workflow.
